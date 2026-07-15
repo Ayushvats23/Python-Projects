@@ -4,7 +4,7 @@ This repository is where I document my journey of learning Python by building pr
 
 Every project here is created to strengthen my understanding of Python fundamentals, problem-solving, and real-world application development. As I continue learning, I'll keep adding new projects ranging from beginner-level programs to more practical automation and data-related applications.
 
-Projects
+Projects 
 
 | Project | Description |
 |---------|-------------|
